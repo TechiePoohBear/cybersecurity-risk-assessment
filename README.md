@@ -1,2 +1,3 @@
-# cybersecurity-risk-assessment
-This project demonstrates the application of NIST SP 800-30 Rev. 1
+# Cybersecurity Risk Assessment – Fictional SaaS Organization
+This project demonstrates the application of NIST SP 800-30 Rev. 1 to assess cybersecurity risks within a fictional SaaS environment. The assessment identifies threat sources and events, vulnerabilities, likelihood, impact, overall risk, existing controls, and recommended risk responses.
+Disclaimer: All organizations, systems, scenarios, findings, and data used in this project are fictional. This project was independently developed using publicly available cybersecurity guidance and does not represent the systems, policies, controls, or practices of any current or former employer.
